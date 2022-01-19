@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vrnika-Jain
-- 👀 I’m interested in astronautics
+- 👀 I’m interested in astrophysics
 - 🌱 I’m currently learning AI & ML
 
 <!---
